@@ -30,4 +30,4 @@ there was some issues while running this so wrote a startup script start.sh
     now run the startup script 
     ```./setup.sh --user --setupAllOfficiallySupportedApps ```
 
-this complete the process is you got any issues check the winapps official git repo 
+this complete the process is you got any issues check the winapps official git repos 
