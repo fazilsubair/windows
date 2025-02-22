@@ -16,9 +16,9 @@ We can start the docker and run the applications without reinstalling for that
 
 1. start the docker 
 
-2 . run the windows rdp in the host 
+2. run the windows rdp in the host 
 
-3 . run the application you want , it will run easliy 
+3. run the application you want , it will run easliy 
 
 ## Starting Manually 
 
