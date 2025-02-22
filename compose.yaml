@@ -38,5 +38,6 @@ services:
       - /home/fazil/windows/data/custom.iso:/custom.iso 
     devices:
       - /dev/kvm # Enable KVM.
+      - /dev/shm:/dev/shm 
       #- /dev/sdX:/disk1 # Uncomment to mount a disk directly within the Windows VM (Note: 'disk1' will be mounted as the main drive. THIS DISK WILL BE FORMATTED BY DOCKER).
       #- /dev/sdY:/disk2 # Uncomment to mount a disk directly within the Windows VM (Note: 'disk2' and higher will be mounted as secondary drives. THIS DISK WILL NOT BE FORMATTED).

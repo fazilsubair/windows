@@ -1045,6 +1045,7 @@ function waCheckRDPAccess() {
         /p:"$RDP_PASS" \
         /scale:"$RDP_SCALE" \
         +auto-reconnect \
+        +clipboard \
         +home-drive \
         -wallpaper \
         +dynamic-resolution \
