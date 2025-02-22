@@ -9,6 +9,17 @@ this is a clone from https://github.com/winapps-org/winapps
 3. changed the RDP username and Password 
  
 
+
+# Easy Win 
+
+We can start the docker and run the applications without reinstalling for that 
+
+1. start the docker 
+
+2 . run the windows rdp in the host 
+
+3 . run the application you want , it will run easliy 
+
 ## Starting Manually 
 
 1. start the docker using 
